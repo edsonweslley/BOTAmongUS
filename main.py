@@ -7,9 +7,9 @@ from discord import Role
 from discord import Guild
 import datetime
 import pyautogui
-import time
 from PIL import Image
 
+# Caso deseje mudar como o bot é chamado, só alterar o @command_prefix= 
 client = commands.Bot(command_prefix= '!', help_command=None)
 
 @client.command()
@@ -46,8 +46,6 @@ def compare_file():
     foto = pyautogui.screenshot()
     foto.save("imagem.png")
     
-    time.sleep(0.3)
-   
     image1 = Image.open("imagem.png")
     image2 = Image.open("votos.png")
 
