@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">BOTAmongUS</h1>
 
-BOT para ser utilizado no Discord, com o intuito de automatizar as partidas do AmongUS. Durante as fases de Task's, o BOT fica responsável de mutar os usuários; e durante a fase de report o BOT desmuta os usuários. Tudo acontece através da captura de tela de um "host" que será também responsável de levantar o BOT.
+BOT para ser utilizado no Discord, com o intuito de automatizar as partidas do AmongUS. Durante as fases de Tasks, o BOT fica responsável de mutar os usuários; e durante a fase de report, o BOT desmutará os usuários. Tudo acontece através da captura de tela de um "host" que será também responsável de levantar o BOT.
 
 ### Bibliotecas usadas
 
