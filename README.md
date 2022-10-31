@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">BOTAmongUS</h1>
 
-BOT para ser utilizado no Discord, com o intuito de automatizar as partidas do AmongUS. Durante as fases de Tasks, o BOT fica responsável de mutar os usuários; e durante a fase de report, o BOT desmutará os usuários. Tudo acontece através da captura de tela de um "host" que será também responsável de levantar o BOT. Estamos buscando para uma V2, implementar um sistema de ranqueamento de pontos de vitoria, ou seja, computar com base nos resultados das partidas, o nível de sucesso de cada player, seja como tripulante ou então como um impostor.
+BOT para ser utilizado no Discord, com o intuito de automatizar as partidas do AmongUS. Durante as fases de Tasks, o BOT fica responsável de mutar os usuários; e durante a fase de report, o BOT desmutará os usuários. Tudo acontece através da captura de tela de um "host" que será também responsável de levantar o BOT.
 
 ### Bibliotecas usadas
 
